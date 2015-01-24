@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2012\Projects\CityworksServicesExample\CityworksServicesExample\bin\Debug\CityworksServicesExample.exe.config
+c:\users\administrator\documents\visual studio 2012\Projects\CityworksServicesExample\CityworksServicesExample\obj\Debug\CityworksServicesExample.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CityworksServicesExample\CityworksServicesExample\bin\Debug\CityworksServicesExample.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CityworksServicesExample\CityworksServicesExample\bin\Debug\CityworksServicesExample.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CityworksServicesExample\CityworksServicesExample\obj\Debug\CityworksServicesExample.exe
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\CityworksServicesExample\CityworksServicesExample\obj\Debug\CityworksServicesExample.pdb
